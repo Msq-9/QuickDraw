@@ -1,3 +1,3 @@
 # QuickDraw
 
-## Explore Machine Learning Academy
+## Explore Machine Learning Academy, Hyderabad
